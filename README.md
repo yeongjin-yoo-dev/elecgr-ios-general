@@ -18,14 +18,14 @@
 - Main Language : Swift(IOS App) + Python(AWS Lambda) + MySQL(AWS RDS)
 - Serverless : AWS API Gateway + Lambda + RDS etc.
 - App Local DB : Realm
-- data.go.kr, navermap etc.<br/><br/>
+- data.go.kr, navermap etc.<br/><br/><br/><br/>
 
-### 3. 개발자 연락처
+## 3. 개발자 연락처
 - yeongjin.yoo.dev@gmail.com
-- ios앱 개발에 관심있는 사람, ios개발자들의 토론/의견 모두 환영!!!
+- ios앱 개발에 관심있는 사람, ios개발자들의 토론/의견 모두 환영!
 - ios 개발자들끼리 서로 정보를 공유하고 앞으로의 방향성을 이야기 하실분 더더더 환영!!
-- ios 개발자들의 실제 커뮤니티가 너무 부족합니다. 개발시간도 중요하지만 요즘은 소통의 시대!<br/><br/>
+- ios 개발자들의 실제 커뮤니티가 너무 부족합니다. 개발시간도 중요하지만 요즘은 소통의 시대!!!<br/><br/><br/><br/>
 
-### 4. 앞으로의 계획
+## 4. 앞으로의 계획
 - 앱제작시 노하우, 시행착고 공유 예정
-- 해외취업에 대한 방향성 공유 예정<br/><br/>
+- 해외취업에 대한 방향성 공유 예정<br/><br/><br/><br/>
