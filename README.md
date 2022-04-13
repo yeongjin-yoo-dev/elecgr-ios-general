@@ -3,9 +3,8 @@
   
 ![launch_title_nos](https://user-images.githubusercontent.com/86177448/163198219-5099ae45-e39f-458e-9d0d-26618533e838.png)
   
-<img src="https://user-images.githubusercontent.com/86177448/163199946-6d43fac3-0d09-4c29-aafd-402babe15ac5.png">
-<img src="https://user-images.githubusercontent.com/86177448/163199951-76b1e67f-b703-4e39-9623-982d29ac584a.png">
-  
+![logo_1](https://user-images.githubusercontent.com/86177448/163199946-6d43fac3-0d09-4c29-aafd-402babe15ac5.png)
+![logo_2](https://user-images.githubusercontent.com/86177448/163199951-76b1e67f-b703-4e39-9623-982d29ac584a.png)
 
 </div>
 
