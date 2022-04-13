@@ -1,9 +1,12 @@
 # 충전스팟 전기차충전소 지도 App
 <div align="center"> 
-![logo_1](https://user-images.githubusercontent.com/86177448/163199946-6d43fac3-0d09-4c29-aafd-402babe15ac5.png)
-![logo_2](https://user-images.githubusercontent.com/86177448/163199951-76b1e67f-b703-4e39-9623-982d29ac584a.png)   
+  <img src="https://user-images.githubusercontent.com/86177448/163199946-6d43fac3-0d09-4c29-aafd-402babe15ac5.png">
+    <img src="https://user-images.githubusercontent.com/86177448/163199951-76b1e67f-b703-4e39-9623-982d29ac584a.png">
+  
 ![launch_title_nos](https://user-images.githubusercontent.com/86177448/163198219-5099ae45-e39f-458e-9d0d-26618533e838.png)
 </div>
+
+
 
 ### 1. 기본정보
 - 충전스팟은 전기차 충전가능 충전소 및 충전대수를 바로 가능하게 구현한 지도앱 입니다!
