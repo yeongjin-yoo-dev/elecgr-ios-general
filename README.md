@@ -1,7 +1,7 @@
 # 충전스팟 전기차충전소 지도 App
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/86177448/163198180-e2a5b136-7bd9-40cd-8ad9-bd0d5d363517.png"/>
+![launch_logo_75](https://user-images.githubusercontent.com/86177448/163198180-e2a5b136-7bd9-40cd-8ad9-bd0d5d363517.png)
+![launch_title_nos](https://user-images.githubusercontent.com/86177448/163198219-5099ae45-e39f-458e-9d0d-26618533e838.png)
 
 
 
